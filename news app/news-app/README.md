@@ -1,5 +1,9 @@
 # NewsApp
 
+A news feed widget using angular framework and news api.
+![ScreenShots](https://raw.githubusercontent.com/arc0825/stepper-library/master/image(3).png)
+![ScreenShots](https://raw.githubusercontent.com/arc0825/stepper-library/master/image(4).png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
 ## Development server
